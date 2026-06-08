@@ -1,5 +1,4 @@
 # Spotify-Streaming-Behavior-Analysis
-# 🎵 Spotify Streaming Behavior Analysis Dashboard
 
 ## 📌 Project Overview
 
